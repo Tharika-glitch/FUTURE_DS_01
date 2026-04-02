@@ -7,16 +7,18 @@ This project analyzes business sales data to identify revenue trends, top-perfor
 - Power BI
 - Excel
 
-## Key Insights
-- Total revenue generated is approximately **2.3M**
-- Total profit earned is around **286K**
-- West region contributes the highest sales
-- Technology and Office Supplies perform better than Furniture
-- Phones and Chairs are top-performing sub-categories
-- Consumer segment dominates sales compared to others
+## Key Insights 
+• Identified that certain product categories contribute significantly to overall sales
+• Analyzed regional sales distribution to understand high-performing areas
+• Observed monthly sales trends to track business performance over time
+• Understood customer segment distribution and its impact on revenue
+• Gained hands-on experience in building interactive dashboards using Power BI
+• Improved skills in data visualization, data cleaning, and insight generation
+
 
 ##  Dashboard Preview
- <img width="960" height="504" alt="Dashboard" src="https://github.com/user-attachments/assets/2c801046-6b9e-4fba-9af5-14f2e9d4a7a1" />
+  <img width="960" height="504" alt="Dashboard" src="https://github.com/user-attachments/assets/5f80e2de-1510-4335-8925-a902291d9198" />
+
 
 
 ##  Files Included
